@@ -20,6 +20,8 @@ This is a cli cron parser implemented in Node.js.
 npm link
 
 ## Install
+git clone https://github.com/pdfconverter/my-cli-parser.git
+cd my-cli-parser
 npm install
 
 ## Run command
